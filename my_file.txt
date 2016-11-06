@@ -1,3 +1,3 @@
-Never edit any files in the .git directory. It can corrupt the whole repository. This
+Never edit any files in the .git directory. Tən ortada yeni sözlər. It can corrupt the whole repository. This
 book doesn’t discuss the internals of Git, and thus doesn’t include working on
 this hidden .git directory.
