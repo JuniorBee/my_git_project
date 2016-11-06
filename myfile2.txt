@@ -1,0 +1,4 @@
+Now that we’ve initialized Git, let’s add a few files to our repository. On your
+computer, navigate to the my_git_project directory and add three text files with the
+following names: my_file, myfile2 and myfile3. Place some content in each one, such
+as a simple sentence.

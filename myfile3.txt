@@ -1,0 +1,2 @@
+After adding the files, let’s return to the terminal and run the following command
+to see how Git reacts:
